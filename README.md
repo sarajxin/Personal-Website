@@ -7,3 +7,9 @@ Following along [here](https://jekyllrb.com/docs/step-by-step/09-collections/)
 `jekyll serve`
 
 
+## Inspiration
+[Template](https://jamstackthemes.dev/demo/theme/jekyll-theme-yat/)
+
+
+
+
